@@ -1,4 +1,4 @@
-interface ErrorPageProps{
+interface ErrorPageProps {
     error: Error;
     reset: () => void;
 }
